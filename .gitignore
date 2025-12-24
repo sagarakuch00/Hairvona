@@ -5,6 +5,7 @@
 
 # User-specific files
 *.rsuser
+*.mp4
 *.suo
 *.user
 *.userosscache
